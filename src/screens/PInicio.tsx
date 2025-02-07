@@ -15,13 +15,13 @@ return (
             <TitleComponents
             title='Bienvenido'/>
         <BodyComponents>
-            <Text style={[styles.titleStar, styles.separacion]} >Bienvenidos a App-Moviles </Text>
+            <Text style={[styles.titleStar, styles.separacion]} > Aplicaciones Móviles </Text>
             <Image
             source={{
                 uri:"https://www.qualitydevs.com/wp-content/uploads/2021/03/Desarrollo-apps-moviles.jpg"
             }} style={styles.imagenCentro}/>
             <View style={styles.separacion}>
-            <ButtonComponents title='Ingresar'/>
+            <ButtonComponents title='Acceder'/>
             </View>
         </BodyComponents>
     </View>
